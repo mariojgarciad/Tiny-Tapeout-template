@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The project enables the user to test the effect of different logic gates
 
 ## How to test
 
-Explain how to use your project
+Turn different switches on/off, attempting to get a specific outcome. Some of the inputs and outputs are interconnected between gates.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Switches and single number LED display.
